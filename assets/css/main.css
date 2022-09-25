@@ -2633,14 +2633,16 @@ input, select, textarea {
 
 		#header h1 {
 			color: rgba(255, 255, 255, 0.5);
-			font-size: 1.35em;
+			/* font-size: 1.35em; */
+			font-size: 2em;
 			line-height: 1.75em;
 			margin: 0;
 		}
 
 		#header .image.avatar {
 			margin: 0 0 1em 0;
-			width: 6.25em;
+			/* width: 6.25em; */
+			width: 10.25em;
 		}
 
 /* Footer */
@@ -2682,10 +2684,10 @@ input, select, textarea {
 /* Main */
 
 	#main {
-		margin-left: 35%;
-		max-width: 54em;
+		margin-left: 30%;
+		max-width: 64em;
 		padding: 8em 4em 4em 4em;
-		width: calc(100% - 35%);
+		width: calc(100% - 30%);
 	}
 
 		#main > section {
